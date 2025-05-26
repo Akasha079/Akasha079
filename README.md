@@ -16,18 +16,12 @@
 ### 👩‍💻 About Me
 
 - 🔭 I’m currently working on **Radiation Pattern Correction for Element Failure in Linear Antenna Array using Machine Learning**
-
 - 🌱 I’m currently learning **advanced front-end frameworks, machine learning techniques, and cybersecurity fundamentals**
-
 - 👯 I’m looking to collaborate on **web development projects, ML applications, and open-source tools related to cybersecurity, automation, or education**
-
 - 🤝 I’m looking for help with **code optimization, scalable front-end architecture, and contributing to cybersecurity/ML projects**
-
 - 💬 Ask me about **Front-end dev, machine learning, embedded systems, or real-world tech projects**
-
 - 📫 How to reach me: **akasha21196@gmail.com**
-
-- 📄 Know about my experiences:(https://drive.google.com/drive/folders/1ICaVY51St4C59bik_59U-XcIUOFjQ6pi?usp=sharing)
+- 📄 Know about my experiences: (https://drive.google.com/drive/folders/1ICaVY51St4C59bik_59U-XcIUOFjQ6pi?usp=sharing)
 
 ---
 
@@ -75,8 +69,4 @@
 
 ---
 
-### 🐍 Snake Game Contribution Graph
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/akasha079/akasha079/output/snake.svg" alt="snake animation"/>
-</div>
